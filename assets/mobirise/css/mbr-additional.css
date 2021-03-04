@@ -1145,3 +1145,38 @@ a {
 .cid-sqH3xVHw0m {
   background-image: url("../../../assets/images/arena-and-custom-trees.png");
 }
+.cid-sqH3xVHw0m .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sqH3xVHw0m .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-sqH9QDnPnx {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #232323;
+}
+@media (min-width: 1500px) {
+  .cid-sqH9QDnPnx .container {
+    max-width: 1400px;
+  }
+}
+.cid-sqH9QDnPnx .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-sqH9QDnPnx .card-wrapper {
+  margin-top: 3rem;
+}
+.cid-sqH9QDnPnx .row {
+  justify-content: center;
+}
+.cid-sqH9QDnPnx .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sqH9QDnPnx .card-title,
+.cid-sqH9QDnPnx .iconfont-wrapper {
+  color: #ffffff;
+}
