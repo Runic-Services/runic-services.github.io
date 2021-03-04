@@ -56,10 +56,15 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "95",
-      "text": "We use cookies to give you the best experience. Read our <a href='terms.html'>cookie policy</a>.",
+      "text": "We use cookies to give you the best experience. Read our <a href='terms.html'>policies</a>.",
       "textButton": "Agree"
     },
-    "gdpr": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": true,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service and Privacy Policy</a>."
+    },
     "uniqCompNum": 19,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png"
