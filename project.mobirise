@@ -540,7 +540,7 @@
               "color": "#ffffff"
             },
             ".card-text": {
-              "color": "#ffffff"
+              "color": "#fafafa"
             }
           },
           "_name": "features1",
