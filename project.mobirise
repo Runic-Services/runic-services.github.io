@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Runic Services - New",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -71,7 +71,7 @@
     "versionPublish": "5.3.0"
   },
   "pages": {
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Runic Services - Home",
