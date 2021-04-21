@@ -1221,3 +1221,43 @@ a {
 .cid-svfkJevQot .iconfont-wrapper {
   color: #ffffff;
 }
+.cid-svft3kXAd4 {
+  display: flex;
+  background-image: url("../../../assets/images/pirate-ship.png");
+}
+.cid-svft3kXAd4 .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.7;
+}
+.cid-svft3kXAd4 .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 768px) {
+  .cid-svft3kXAd4 {
+    align-items: center;
+  }
+  .cid-svft3kXAd4 .row {
+    justify-content: flex-start;
+  }
+  .cid-svft3kXAd4 .content-wrap {
+    width: 100%;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-svft3kXAd4 .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-svft3kXAd4 {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-svft3kXAd4 .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-svft3kXAd4 .content-wrap {
+    width: 100%;
+  }
+}
