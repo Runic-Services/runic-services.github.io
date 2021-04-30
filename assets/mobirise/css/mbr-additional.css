@@ -1140,7 +1140,7 @@ section.lazy-placeholder:after {
 .cid-sw5xDPxlsh {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #313131;
 }
 @media (max-width: 767px) {
   .cid-sw5xDPxlsh .content {
@@ -1204,4 +1204,14 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-sw5FUl3PHF {
+  background-image: url("../../../assets/images/pirate-ship.png");
+}
+.cid-sw5FUl3PHF H1 {
+  text-align: left;
+}
+.cid-sw5FUl3PHF .mbr-text,
+.cid-sw5FUl3PHF .mbr-section-btn {
+  text-align: left;
 }
