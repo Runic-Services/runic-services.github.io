@@ -1111,16 +1111,20 @@ section.lazy-placeholder:after {
 .cid-sw5qNkRDBE .card-img {
   color: #ffffff;
 }
-.cid-sw90Cx4xly {
-  padding-top: 120px;
-  padding-bottom: 120px;
+.cid-sw9oc8R32V {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #313131;
 }
-.cid-sw90Cx4xly .mbr-section-subtitle {
-  color: #efefef;
+.cid-sw9oc8R32V P {
+  color: #767676;
 }
-.cid-sw90Cx4xly H2 {
+.cid-sw9oc8R32V H1 {
   color: #ffffff;
+}
+.cid-sw9oc8R32V .mbr-text,
+.cid-sw9oc8R32V .mbr-section-btn {
+  color: #efefef;
 }
 .cid-sw5xDPxlsh {
   padding-top: 60px;
