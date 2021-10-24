@@ -928,6 +928,11 @@ section.lazy-placeholder:after {
 .cid-sw5pwWv2VI .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-sw5pwWv2VI .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-sw5pwWv2VI .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1456,6 +1461,11 @@ section.lazy-placeholder:after {
 .cid-sw5pwWv2VI .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-sw5pwWv2VI .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-sw5pwWv2VI .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1930,6 +1940,11 @@ section.lazy-placeholder:after {
 .cid-swbMqWdcn9 .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-swbMqWdcn9 .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-swbMqWdcn9 .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2403,6 +2418,11 @@ section.lazy-placeholder:after {
 .cid-swbMqWdcn9 .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-swbMqWdcn9 .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  .cid-swbMqWdcn9 .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-swbMqWdcn9 .collapsed button.navbar-toggler {
   display: block;
@@ -2946,6 +2966,11 @@ section.lazy-placeholder:after {
 .cid-sw5pwWv2VI .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-sw5pwWv2VI .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-sw5pwWv2VI .collapsed button.navbar-toggler {
   display: block;
 }
@@ -3418,6 +3443,11 @@ section.lazy-placeholder:after {
 .cid-sxMKlKcSEm .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-sxMKlKcSEm .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  .cid-sxMKlKcSEm .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-sxMKlKcSEm .collapsed button.navbar-toggler {
   display: block;
